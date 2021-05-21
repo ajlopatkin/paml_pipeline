@@ -23,8 +23,8 @@ Follow the setup instructions found in process_guide.md before typing "python3 p
 
 ## Authors
 
-Emily Huntsman (Barnard '21)
-Allison Lopatkin (https://lopatkinlab.com)
+Emily Huntsman (Barnard '21)  
+Allison Lopatkin (https://lopatkinlab.com)  
 with guidance from Jonathan Snow (https://sites.google.com/a/barnard.edu/jonathansnow/home)
 
 ## Version History
